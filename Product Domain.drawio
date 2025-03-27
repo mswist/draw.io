@@ -42,14 +42,14 @@
         <mxCell id="OjazrULbCiZMW3rwFvfQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OjazrULbCiZMW3rwFvfQ-1" target="OjazrULbCiZMW3rwFvfQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OjazrULbCiZMW3rwFvfQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="OjazrULbCiZMW3rwFvfQ-1" target="OjazrULbCiZMW3rwFvfQ-4" edge="1">
+        <mxCell id="OjazrULbCiZMW3rwFvfQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;curved=0;" parent="1" source="OjazrULbCiZMW3rwFvfQ-1" target="OjazrULbCiZMW3rwFvfQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OjazrULbCiZMW3rwFvfQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" parent="1" source="OjazrULbCiZMW3rwFvfQ-8" edge="1">
+        <mxCell id="OjazrULbCiZMW3rwFvfQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;curved=0;" parent="1" source="OjazrULbCiZMW3rwFvfQ-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="290" />
