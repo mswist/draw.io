@@ -118,14 +118,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GDRzIWTXa9wATXN3TRYC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GDRzIWTXa9wATXN3TRYC-16" target="OjazrULbCiZMW3rwFvfQ-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=155;exitPerimeter=0;" edge="1" parent="1" source="GDRzIWTXa9wATXN3TRYC-26" target="OjazrULbCiZMW3rwFvfQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDRzIWTXa9wATXN3TRYC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="OjazrULbCiZMW3rwFvfQ-4" target="GDRzIWTXa9wATXN3TRYC-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
