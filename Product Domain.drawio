@@ -76,12 +76,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-30" y="530" width="140" height="170" as="geometry" />
+          <mxGeometry x="-30" y="530" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-16" value="&lt;b&gt;Quotation&lt;/b&gt;" style="shape=folder;fontStyle=0;spacingTop=0;tabWidth=110;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=0;spacing=-17;spacingRight=-50;fillColor=none;dashed=1;" parent="GDRzIWTXa9wATXN3TRYC-17" vertex="1">
-          <mxGeometry width="140" height="170" as="geometry" />
+          <mxGeometry width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="GDRzIWTXa9wATXN3TRYC-4" value="eQS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-17" vertex="1">
+        <mxCell id="GDRzIWTXa9wATXN3TRYC-4" value="Quotation&lt;br&gt;Engine v3" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-17" vertex="1">
           <mxGeometry x="10" y="30" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-5" value="Radar Live" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-17" vertex="1">
@@ -91,21 +91,15 @@
           <mxGeometry x="140" y="510" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-26" value="Distribution&lt;div&gt;Platforms&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=0;tabWidth=120;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=-135;spacing=0;spacingRight=0;fillColor=none;dashed=1;spacingBottom=-35;" parent="GDRzIWTXa9wATXN3TRYC-27" vertex="1">
-          <mxGeometry width="140" height="270" as="geometry" />
+          <mxGeometry width="140" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GDRzIWTXa9wATXN3TRYC-1" value="eMagin" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-27" vertex="1">
+        <mxCell id="GDRzIWTXa9wATXN3TRYC-1" value="Quote &amp;amp; Buy" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-27" vertex="1">
           <mxGeometry x="10" y="48.903076923076924" width="120" height="59.1923076923077" as="geometry" />
         </mxCell>
-        <mxCell id="GDRzIWTXa9wATXN3TRYC-2" value="Retail Portal" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-27" vertex="1">
-          <mxGeometry x="10" y="124.61538461538463" width="120" height="59.1923076923077" as="geometry" />
-        </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-3" value="Contract&lt;div&gt;EPC&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="GDRzIWTXa9wATXN3TRYC-27" vertex="1">
-          <mxGeometry x="10" y="197.30769230769232" width="120" height="59.1923076923077" as="geometry" />
+          <mxGeometry x="10" y="129.99769230769232" width="120" height="59.1923076923077" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GDRzIWTXa9wATXN3TRYC-1" target="GDRzIWTXa9wATXN3TRYC-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GDRzIWTXa9wATXN3TRYC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GDRzIWTXa9wATXN3TRYC-2" target="GDRzIWTXa9wATXN3TRYC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GDRzIWTXa9wATXN3TRYC-26" target="OjazrULbCiZMW3rwFvfQ-1" edge="1">
@@ -249,6 +243,9 @@
               <mxPoint x="200" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nd4pq4Dq015iR0yZHP_1-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="GDRzIWTXa9wATXN3TRYC-1" target="GDRzIWTXa9wATXN3TRYC-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
