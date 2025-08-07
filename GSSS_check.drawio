@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Strona-1" id="HN6G_lWsx0Zro4IrS65G">
+    <mxGraphModel dx="1426" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-9" value="GSSS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-4" value="ABS" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-1" value="Claim Payment" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-2" value="Policy Refund" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ii9B83sJmDrk2-A6Q2Vl-7" target="Ii9B83sJmDrk2-A6Q2Vl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-7" value="GSSS SOAP Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fa6800;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-10" value="Sanction Check&lt;br&gt;Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="855" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ii9B83sJmDrk2-A6Q2Vl-12" target="Ii9B83sJmDrk2-A6Q2Vl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-12" value="Sanction Check&lt;br&gt;Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f0a30a;shape=mxgraph.archimate3.application;appType=interface;archiType=square;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="264" y="230" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="Ii9B83sJmDrk2-A6Q2Vl-2" target="Ii9B83sJmDrk2-A6Q2Vl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="Ii9B83sJmDrk2-A6Q2Vl-1" target="Ii9B83sJmDrk2-A6Q2Vl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ii9B83sJmDrk2-A6Q2Vl-17" target="Ii9B83sJmDrk2-A6Q2Vl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9B83sJmDrk2-A6Q2Vl-17" value="Apigee" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
