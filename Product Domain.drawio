@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0" pages="3">
   <diagram name="Target Functional Architecture" id="fNVnuzUrxiQcgh-Kx3ib">
-    <mxGraphModel dx="2247" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QtQo2G-uyqMFzlOFOCsw-1" value="&lt;b&gt;Underwriting&lt;/b&gt;" style="shape=folder;fontStyle=0;spacingTop=0;tabWidth=110;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=0;spacing=-17;spacingRight=-85;fillColor=#EDFFE2;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="210" width="160" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="SRlDr7Bf7immK5mRBn7W-4" value="&lt;b&gt;Distribution&lt;/b&gt;" style="shape=folder;fontStyle=0;spacingTop=0;tabWidth=110;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=0;spacing=-17;spacingRight=-59;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="470" width="360" height="260" as="geometry" />
         </mxCell>
         <mxCell id="v8qI8jdWA-AThLrpT7V4-32" value="&lt;b&gt;Product Offering&lt;/b&gt;" style="shape=folder;fontStyle=0;spacingTop=0;tabWidth=110;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=0;spacing=-17;spacingRight=-85;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="170" width="690" height="290" as="geometry" />
+          <mxGeometry x="-240" y="170" width="700" height="290" as="geometry" />
         </mxCell>
         <mxCell id="OjazrULbCiZMW3rwFvfQ-11" value="&lt;b&gt;Product Domain&lt;/b&gt;" style="shape=folder;fontStyle=0;spacingTop=0;tabWidth=110;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;spacingLeft=0;spacing=-17;spacingRight=-85;fillColor=#EDFFE2;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="210" width="460" height="230" as="geometry" />
+          <mxGeometry x="120" y="210" width="310" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OjazrULbCiZMW3rwFvfQ-1" value="Product&lt;div&gt;Configurator&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
           <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
@@ -20,7 +23,7 @@
           <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OjazrULbCiZMW3rwFvfQ-4" value="Pricing and Underwriting" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;dashed=1;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OjazrULbCiZMW3rwFvfQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;startArrow=classic;startFill=1;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OjazrULbCiZMW3rwFvfQ-2" target="OjazrULbCiZMW3rwFvfQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +48,7 @@
         <mxCell id="OjazrULbCiZMW3rwFvfQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#DB9102;curved=0;" parent="1" source="OjazrULbCiZMW3rwFvfQ-1" target="OjazrULbCiZMW3rwFvfQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="380" />
+              <mxPoint x="30" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GDRzIWTXa9wATXN3TRYC-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-210" y="325" width="145.71428571428572" height="100" as="geometry" />
+          <mxGeometry x="-230" y="325" width="145.71428571428572" height="100" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="" id="v8qI8jdWA-AThLrpT7V4-2">
           <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;shadow=0;" parent="GDRzIWTXa9wATXN3TRYC-12" vertex="1">
@@ -133,7 +136,7 @@
         <mxCell id="nd4pq4Dq015iR0yZHP_1-9" value="Tax" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
           <mxGeometry x="440" y="714" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nd4pq4Dq015iR0yZHP_1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="nd4pq4Dq015iR0yZHP_1-9" target="OjazrULbCiZMW3rwFvfQ-2" edge="1">
+        <mxCell id="nd4pq4Dq015iR0yZHP_1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="nd4pq4Dq015iR0yZHP_1-9" target="OjazrULbCiZMW3rwFvfQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="750" />
@@ -156,16 +159,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="325" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-50" y="390" />
-              <mxPoint x="-50" y="290" />
+              <mxPoint x="-60" y="390" />
+              <mxPoint x="-60" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nd4pq4Dq015iR0yZHP_1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;fillColor=#ffcc99;strokeColor=#DB9102;dashed=1;" parent="1" source="GDRzIWTXa9wATXN3TRYC-16" target="OjazrULbCiZMW3rwFvfQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="370" />
-              <mxPoint x="40" y="370" />
+              <mxPoint x="30" y="430" />
+              <mxPoint x="30" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -238,9 +241,9 @@
         <mxCell id="nd4pq4Dq015iR0yZHP_1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="v8qI8jdWA-AThLrpT7V4-16" target="OjazrULbCiZMW3rwFvfQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-50" y="390" />
-              <mxPoint x="-50" y="240" />
-              <mxPoint x="200" y="240" />
+              <mxPoint x="-60" y="390" />
+              <mxPoint x="-60" y="240" />
+              <mxPoint x="190" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
