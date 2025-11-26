@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Page-1" id="5FL3Yc4A2DDQGIRSdxk4">
+    <mxGraphModel dx="1152" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;verticalAlign=top;" value="PostgresSQL" vertex="1">
+          <mxGeometry height="220" width="110" x="690" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Product Service" vertex="1">
+          <mxGeometry height="230" width="260" x="395" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Product Portal Shell" vertex="1">
+          <mxGeometry height="185" width="160" x="24" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-6" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="2wTGc0nir_wqagPH2XhJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Elements Library MFE" vertex="1">
+          <mxGeometry height="60" width="140" x="34" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-7" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="2wTGc0nir_wqagPH2XhJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Product Design MFE" vertex="1">
+          <mxGeometry height="60" width="140" x="34" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-13" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Product BFF" vertex="1">
+          <mxGeometry height="60" width="130" x="234" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-19" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Elements Library&lt;br&gt;Module" vertex="1">
+          <mxGeometry height="75" width="150" x="495" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-16" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-21" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Product Design&lt;br&gt;Module" vertex="1">
+          <mxGeometry height="75" width="150" x="495" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-14" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.784;exitY=0.194;exitDx=0;exitDy=0;exitPerimeter=0;" target="2wTGc0nir_wqagPH2XhJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-15" edge="1" parent="1" source="2wTGc0nir_wqagPH2XhJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="208" />
+              <mxPoint x="475" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;horizontal=0;" value="Integration&lt;br&gt;layer" vertex="1">
+          <mxGeometry height="180" width="51" x="415" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-18" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill;" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Elements&lt;br&gt;schema&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="70" width="80" x="704" y="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2wTGc0nir_wqagPH2XhJ-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;Products&lt;br&gt;schema&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="70" width="80" x="704" y="172.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
