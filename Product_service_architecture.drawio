@@ -132,10 +132,10 @@
           <mxGeometry height="60" width="90" x="512.5" y="390" as="geometry" />
         </mxCell>
         <mxCell id="IiLVMJEhiWdAw7Vz07qf-31" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="ABS CMC&lt;br&gt;Adapter" vertex="1">
-          <mxGeometry height="70" width="120" x="367.5" y="510" as="geometry" />
+          <mxGeometry height="60" width="112.5" x="371.25" y="510" as="geometry" />
         </mxCell>
         <mxCell id="IiLVMJEhiWdAw7Vz07qf-33" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="ABS Product&lt;br&gt;Adapter" vertex="1">
-          <mxGeometry height="70" width="120" x="497.5" y="510" as="geometry" />
+          <mxGeometry height="60" width="117.5" x="498.75" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
