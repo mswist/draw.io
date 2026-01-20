@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.3">
   <diagram name="Page-1" id="5FL3Yc4A2DDQGIRSdxk4">
-    <mxGraphModel dx="1418" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IiLVMJEhiWdAw7Vz07qf-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Product MCP&lt;br&gt;Server" vertex="1">
-          <mxGeometry height="60" width="195" x="470" y="-70" as="geometry" />
+          <mxGeometry height="60" width="195" x="470" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="IiLVMJEhiWdAw7Vz07qf-32" edge="1" parent="1" source="IiLVMJEhiWdAw7Vz07qf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IiLVMJEhiWdAw7Vz07qf-31">
           <mxGeometry relative="1" as="geometry" />
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="bilNrZCaZ3MdyvFudRb_-3" edge="1" parent="1" source="IiLVMJEhiWdAw7Vz07qf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2wTGc0nir_wqagPH2XhJ-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bilNrZCaZ3MdyvFudRb_-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;align=left;" value="UI Layer" vertex="1">
+          <mxGeometry height="350" width="350" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bilNrZCaZ3MdyvFudRb_-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;align=left;" value="Service Layer" vertex="1">
+          <mxGeometry height="350" width="380" x="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
