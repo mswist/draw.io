@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="C1UnsCcNL_BtvQIM1U_F">
-    <mxGraphModel dx="2015" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,11 +337,11 @@
         <mxCell id="6XYj7hBfVvYUpMf1b6rX-121" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;verticalAlign=top;" value="TMO1_EVENT&#xa;Contract&#xa;Change" vertex="1">
           <mxGeometry height="50" width="100" x="110" y="1525" as="geometry" />
         </mxCell>
-        <mxCell id="6XYj7hBfVvYUpMf1b6rX-124" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" value="Client BOPerson Post Save" vertex="1">
+        <mxCell id="6XYj7hBfVvYUpMf1b6rX-124" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" value="BOPerson Post Save (CISL/RAP)" vertex="1">
           <mxGeometry height="110" width="400" x="-180" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="6XYj7hBfVvYUpMf1b6rX-125" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" value="Conditions:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Only Natural persons&lt;/li&gt;&lt;li&gt;Only Modification&lt;/li&gt;&lt;li&gt;Only in context of Person change&lt;/li&gt;&lt;li&gt;Only subset of changes ???&lt;/li&gt;&lt;li&gt;Only Policy Holders&lt;/li&gt;&lt;li&gt;Only specific BU ???&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="130" width="240" x="-140" y="1640" as="geometry" />
+        <mxCell id="6XYj7hBfVvYUpMf1b6rX-125" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" value="Conditions:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Main validations (when creating trigger)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Only Natural persons&lt;/li&gt;&lt;li&gt;Only Modification&lt;/li&gt;&lt;li&gt;Only in context of Person File&lt;/li&gt;&lt;li&gt;---&lt;/li&gt;&lt;li&gt;&lt;b&gt;Additional validations&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Only subset of changes ???&lt;/li&gt;&lt;li&gt;Only Policy Holders&lt;/li&gt;&lt;li&gt;Only specific BU ???&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="170" width="280" x="-140" y="1640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
