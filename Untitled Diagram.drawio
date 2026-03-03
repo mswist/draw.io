@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="3">
   <diagram name="Product As-Is" id="lpbJM3GMhRv1k39ES4jl">
-    <mxGraphModel dx="2253" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,8 +339,8 @@
       <root>
         <mxCell id="yyJStBgKr5sC5GEXsHjm-0" />
         <mxCell id="yyJStBgKr5sC5GEXsHjm-1" parent="yyJStBgKr5sC5GEXsHjm-0" />
-        <mxCell id="Rtp1okUALKre8RTMhBTg-0" parent="yyJStBgKr5sC5GEXsHjm-1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;verticalAlign=top;align=left;" value="Contract &amp;amp; Beneficiary" vertex="1">
-          <mxGeometry height="150" width="330" x="-20" y="510" as="geometry" />
+        <mxCell id="Rtp1okUALKre8RTMhBTg-0" parent="yyJStBgKr5sC5GEXsHjm-1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;verticalAlign=top;align=left;" value="&amp;nbsp;Contract &amp;amp; Beneficiary" vertex="1">
+          <mxGeometry height="120" width="330" x="-20" y="540" as="geometry" />
         </mxCell>
         <mxCell id="yyJStBgKr5sC5GEXsHjm-10" edge="1" parent="yyJStBgKr5sC5GEXsHjm-1" source="yyJStBgKr5sC5GEXsHjm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=top;labelBackgroundColor=none;" target="yyJStBgKr5sC5GEXsHjm-42" value="synchronizes">
           <mxGeometry relative="1" as="geometry" />
