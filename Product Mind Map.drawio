@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="pg2C72fXtNoLawWMW2dX">
-    <mxGraphModel dx="1765" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="Transform for further processing" vertex="1">
           <mxGeometry height="60" width="110" x="390" y="655" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-53" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uGuXf-QrNRTJdh78wCMj-52">
+        <mxCell id="7X7wvl41AO55TkxW6szc-2" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Input Data Model" vertex="1">
@@ -143,49 +143,63 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-55" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="615" />
+              <mxPoint x="820" y="615" />
             </Array>
+            <mxPoint x="820" y="665" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-57" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="755" />
+              <mxPoint x="820" y="755" />
             </Array>
+            <mxPoint x="820" y="705" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-52" parent="1" style="rhombus;whiteSpace=wrap;html=1;comic=0;autosize=0;metaEdit=0;aspect=fixed;" value="OR" vertex="1">
-          <mxGeometry height="40" width="40" x="670" y="665" as="geometry" />
+          <mxGeometry height="40" width="40" x="800" y="665" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-63" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="XML&lt;div&gt;Transformer&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="740" y="585" as="geometry" />
+          <mxGeometry height="60" width="100" x="870" y="585" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-64" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="CSV&lt;div&gt;Transformer&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="740" y="725" as="geometry" />
+          <mxGeometry height="60" width="100" x="870" y="725" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-60" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* Converts input Product data to input data model&lt;/div&gt;&lt;div&gt;* Sends data to Liberty Product (e.g. via API call)&lt;/div&gt;&lt;div&gt;* Reports errors&lt;/div&gt;&lt;div&gt;&lt;b&gt;Potential Solution:&lt;/b&gt;&lt;/div&gt;Java Service/Proteo/Python?&lt;div&gt;&lt;b&gt;Consideration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;* CSV uses CMC codes - mapping might be needed&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="180" x="700" y="380" as="geometry" />
+          <mxGeometry height="170" width="180" x="830" y="380" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-66" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uGuXf-QrNRTJdh78wCMj-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Persist in Product Domain" vertex="1">
-          <mxGeometry height="60" width="120" x="890" y="655" as="geometry" />
+          <mxGeometry height="60" width="120" x="1020" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-68" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="uGuXf-QrNRTJdh78wCMj-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Storage Data Model" vertex="1">
-          <mxGeometry height="60" width="100" x="1050" y="655" as="geometry" />
+          <mxGeometry height="60" width="100" x="1180" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-67" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;* Design target data model for storing Products&lt;div&gt;* Decide the database type (SQL/NoSQL)&lt;/div&gt;&lt;div&gt;* Choose specific db (Postgres/Mongo)&lt;/div&gt;&lt;div&gt;* Prepare db schema&lt;br&gt;&lt;b&gt;Considerations:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Can be based on input data model&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="180" x="1010" y="770" as="geometry" />
+          <mxGeometry height="170" width="180" x="1140" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-3" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uGuXf-QrNRTJdh78wCMj-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define data mapping" vertex="1">
+          <mxGeometry height="60" width="100" x="670" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-5" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Define data mapping between SPC (XML or CSV) model and input model" vertex="1">
+          <mxGeometry height="76" width="180" x="630" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
