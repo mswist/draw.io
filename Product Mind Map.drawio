@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="pg2C72fXtNoLawWMW2dX">
-    <mxGraphModel dx="4034" dy="3595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4717" dy="3595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
             <mxPoint x="855" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Add Product Attributes" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Add Product Parameters" vertex="1">
           <mxGeometry height="60" width="120" x="695" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-17" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uGuXf-QrNRTJdh78wCMj-16">
@@ -114,7 +114,10 @@
         <mxCell id="7X7wvl41AO55TkxW6szc-2" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Input Data Model" vertex="1">
+        <mxCell id="7X7wvl41AO55TkxW6szc-64" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Logical Data Model" vertex="1">
           <mxGeometry height="60" width="100" x="540" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-47" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-26">
@@ -189,7 +192,7 @@
         <mxCell id="7X7wvl41AO55TkxW6szc-11" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Storage Data Model" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Technical Data Model" vertex="1">
           <mxGeometry height="60" width="100" x="1180" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-67" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;* Design target data model for storing Products&lt;div&gt;* Decide the database type (SQL/NoSQL)&lt;/div&gt;&lt;div&gt;* Choose specific db (Postgres/Mongo)&lt;/div&gt;&lt;div&gt;* Prepare db schema&lt;br&gt;&lt;b&gt;Considerations:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Can be based on input data model&lt;/div&gt;" vertex="1">
@@ -332,26 +335,38 @@
         <mxCell id="7X7wvl41AO55TkxW6szc-57" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7X7wvl41AO55TkxW6szc-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Add Product Attributes" vertex="1">
+        <mxCell id="7X7wvl41AO55TkxW6szc-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Add Product Parameters" vertex="1">
           <mxGeometry height="60" width="100" x="2170" y="655" as="geometry" />
         </mxCell>
         <mxCell id="7X7wvl41AO55TkxW6szc-55" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7X7wvl41AO55TkxW6szc-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define the list of needed Product Attributes" vertex="1">
-          <mxGeometry height="60" width="100" x="2320" y="595" as="geometry" />
+          <mxGeometry height="60" width="110" x="2320" y="599.06" as="geometry" />
         </mxCell>
-        <mxCell id="7X7wvl41AO55TkxW6szc-54" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;Analyze with business the initial list of needed attributes&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68.12" width="140" x="2440" y="590.9399999999999" as="geometry" />
+        <mxCell id="7X7wvl41AO55TkxW6szc-54" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;Analyze with business the initial list of needed parameters&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68.12" width="140" x="2465" y="596.88" as="geometry" />
         </mxCell>
         <mxCell id="7X7wvl41AO55TkxW6szc-59" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7X7wvl41AO55TkxW6szc-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Design the data model for defining and storing Attributes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="2320" y="506.56" as="geometry" />
+        <mxCell id="7X7wvl41AO55TkxW6szc-62" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7X7wvl41AO55TkxW6szc-58" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;Way of defining and storing attributes - e.g. fixed list included in db schema, or dynamic/configurable&lt;/font&gt; list&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="87.5" width="160" x="2440" y="492.81" as="geometry" />
+        <mxCell id="7X7wvl41AO55TkxW6szc-63" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Design the data model for defining and storing Parameters&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="2320" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-58" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;Way of defining and storing parameters - e.g. fixed list included in db schema, or dynamic/configurable&lt;/font&gt; list&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="145" x="2302.5" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Model Parameters in backedn" vertex="1">
+          <mxGeometry height="60" width="110" x="2481" y="797.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Model Parameters in db" vertex="1">
+          <mxGeometry height="60" width="110" x="2481" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
