@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="pg2C72fXtNoLawWMW2dX">
-    <mxGraphModel dx="2172" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3530" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,10 +228,100 @@
           <mxGeometry height="60" width="100" x="1340" y="725" as="geometry" />
         </mxCell>
         <mxCell id="7X7wvl41AO55TkxW6szc-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* Connect to db&lt;/div&gt;&lt;div&gt;* Product model&lt;/div&gt;&lt;div&gt;* Basic CRUD methods&lt;/div&gt;&lt;div&gt;&lt;b&gt;Potential Solution:&lt;/b&gt;&lt;/div&gt;Java Service&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="180" x="1340" y="830" as="geometry" />
+          <mxGeometry height="100" width="140" x="1330" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="7X7wvl41AO55TkxW6szc-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Add&lt;br&gt;Product&lt;div&gt;API&lt;/div&gt;" vertex="1">
+        <mxCell id="7X7wvl41AO55TkxW6szc-17" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Product&lt;br&gt;Creation&lt;br&gt;&lt;div&gt;API&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="1490" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-19" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-23" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-28" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="7X7wvl41AO55TkxW6szc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-33" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="7X7wvl41AO55TkxW6szc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="View Product" vertex="1">
+          <mxGeometry height="60" width="100" x="1630" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-21" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Get list of products API" vertex="1">
+          <mxGeometry height="60" width="100" x="1770" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-20" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* Return list of products&lt;/div&gt;&lt;div&gt;* Filtering query parameters&lt;/div&gt;&lt;div&gt;* Authorization?&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="150" x="1890" y="712.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-25" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Get single Product details API" vertex="1">
+          <mxGeometry height="60" width="100" x="1770" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-24" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* Return full view of a single product&lt;br&gt;* Authorization?&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="1890" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-31" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Design UI Screen for list of Products" vertex="1">
+          <mxGeometry height="60" width="100" x="1770" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-29" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;* Design the UI/UX for list of products screen (including filtering/searching&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86.25" width="140" x="1890" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-35" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Design UI screen for full product view" vertex="1">
+          <mxGeometry height="60" width="100" x="1770" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-34" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope [design]:&lt;/b&gt;&lt;br&gt;* Design the UI/UX for full product view (may be several screens for different levels of product view&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="93.12" width="140" x="1890" y="473.44" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-41" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7X7wvl41AO55TkxW6szc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#cdeb8b;strokeColor=#36393d;" value="Build UI frame" vertex="1">
+          <mxGeometry height="60" width="100" x="1770" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-37" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="7X7wvl41AO55TkxW6szc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-39" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-38" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* Basic portal frame (Layout, Navigation, etc)&lt;/div&gt;&lt;div&gt;* Authentication (SSO)&lt;/div&gt;&lt;div&gt;* Connection to backend&lt;/div&gt;&lt;div&gt;&lt;b&gt;Proposed Solution:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angular + AllianzOne&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="155" x="1742.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-45" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#cdeb8b;strokeColor=#36393d;" value="Products Search/List&lt;div&gt;Screen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="1940" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-43" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-42" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* UI for product search/list&lt;/div&gt;&lt;div&gt;* Backend API call&lt;/div&gt;&lt;div&gt;&lt;b&gt;Proposed Solution:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angular + AllianzOne&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="1925" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#cdeb8b;strokeColor=#36393d;" value="Product View&lt;div&gt;Screen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="2110" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-47" edge="1" parent="1" source="7X7wvl41AO55TkxW6szc-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="7X7wvl41AO55TkxW6szc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7wvl41AO55TkxW6szc-46" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;div&gt;&lt;b&gt;Scope:&lt;/b&gt;&lt;br&gt;* UI for product full view (may be several screens)&lt;/div&gt;&lt;div&gt;* Backend API call&lt;/div&gt;&lt;div&gt;&lt;b&gt;Proposed Solution:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angular + AllianzOne&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="165" x="2077.5" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
