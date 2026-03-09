@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="Page-1" id="pg2C72fXtNoLawWMW2dX">
-    <mxGraphModel dx="748" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uGuXf-QrNRTJdh78wCMj-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="ABS Integration" vertex="1">
           <mxGeometry height="100" width="300" x="1165" y="-180" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Core Liberty Product" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Liberty Product Solution" vertex="1">
           <mxGeometry height="100" width="780" x="365" y="-180" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-61" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="uGuXf-QrNRTJdh78wCMj-56">
@@ -72,7 +72,7 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-45" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uGuXf-QrNRTJdh78wCMj-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="Acquire SPC&lt;br&gt;Product Data" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="1. Acquire SPC&lt;br&gt;Product Data" vertex="1">
           <mxGeometry height="60" width="110" x="45" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-35" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-34">
@@ -81,7 +81,7 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-58" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="uGuXf-QrNRTJdh78wCMj-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Continuous Integration" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="1.02-01 Continuous Integration" vertex="1">
           <mxGeometry height="60" width="100" x="240" y="585" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-36" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-34">
@@ -90,7 +90,7 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-59" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="uGuXf-QrNRTJdh78wCMj-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Existing CSV Integration" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="1.02-02&lt;div&gt;Existing CSV Integration&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="240" y="725" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-31" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="uGuXf-QrNRTJdh78wCMj-26">
@@ -108,7 +108,7 @@
         <mxCell id="uGuXf-QrNRTJdh78wCMj-38" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uGuXf-QrNRTJdh78wCMj-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="Transform for further processing" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="1. Transform for further processing" vertex="1">
           <mxGeometry height="60" width="110" x="390" y="655" as="geometry" />
         </mxCell>
         <mxCell id="7X7wvl41AO55TkxW6szc-2" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-1">
@@ -117,7 +117,7 @@
         <mxCell id="7X7wvl41AO55TkxW6szc-64" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7X7wvl41AO55TkxW6szc-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uGuXf-QrNRTJdh78wCMj-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Define Logical Data Model" vertex="1">
+        <mxCell id="uGuXf-QrNRTJdh78wCMj-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="1.01 Define Logical Data Model" vertex="1">
           <mxGeometry height="60" width="100" x="540" y="655" as="geometry" />
         </mxCell>
         <mxCell id="uGuXf-QrNRTJdh78wCMj-47" edge="1" parent="1" source="uGuXf-QrNRTJdh78wCMj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="uGuXf-QrNRTJdh78wCMj-26">
