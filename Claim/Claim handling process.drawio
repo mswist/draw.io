@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="qgdTNtb2njmSWe-CJx-L">
-    <mxGraphModel dx="2844" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3180" dy="2584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-12" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;spacingTop=15;spacingLeft=25;container=0;" value="&lt;b&gt;4. Claim Evaluation&lt;/b&gt;" vertex="1">
+          <mxGeometry height="387.5" width="1190" x="-180" y="1060" as="geometry" />
+        </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-34" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="1. Claim&lt;br&gt;Submission" vertex="1">
           <mxGeometry height="80" width="120" x="-180" y="-160" as="geometry" />
         </mxCell>
@@ -113,11 +116,11 @@
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-43" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-68" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-44" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="3. Claim&lt;br&gt;Allocation" vertex="1">
-          <mxGeometry height="80" width="120" x="230" y="-210" as="geometry" />
+        <mxCell id="uO-Lus2hwTG4QXtw3h1M-68" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="-170" as="sourcePoint" />
+            <mxPoint x="390" y="-169.9333333333334" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-63" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="427.5" width="600" x="-187" y="590" as="geometry" />
@@ -173,17 +176,21 @@
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-64" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="140" y="-145" as="geometry" />
         </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-66" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-70" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-67" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="4. Claim&lt;br&gt;Evaluation" vertex="1">
-          <mxGeometry height="80" width="120" x="390" y="-210" as="geometry" />
+        <mxCell id="uO-Lus2hwTG4QXtw3h1M-70" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="-170" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-69" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="550" y="-195" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-5" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="-235" />
+              <mxPoint x="950" y="-170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-71" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="5. Claim&lt;br&gt;Denial" vertex="1">
           <mxGeometry height="80" width="120" x="640" y="-275" as="geometry" />
@@ -196,14 +203,159 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-2" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-73" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="6. Claim&lt;br&gt;Payment" vertex="1">
           <mxGeometry height="80" width="120" x="640" y="-145" as="geometry" />
         </mxCell>
         <mxCell id="uO-Lus2hwTG4QXtw3h1M-74" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="uO-Lus2hwTG4QXtw3h1M-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uO-Lus2hwTG4QXtw3h1M-75" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="1. Claim&lt;br&gt;Submission" vertex="1">
-          <mxGeometry height="80" width="120" x="230" y="-330" as="geometry" />
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-4" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="-105" />
+              <mxPoint x="950" y="-170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-1" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="7. Claim Recourse" vertex="1">
+          <mxGeometry height="80" width="120" x="800" y="-145" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-7" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-3" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="970" y="-195" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-6" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="7. Claim Feedback" vertex="1">
+          <mxGeometry height="80" width="120" x="1050" y="-210" as="geometry" />
+        </mxCell>
+        <UserObject label="3. Claim&lt;br&gt;Allocation" link="data:action/json,{&quot;actions&quot;:[{&quot;open&quot;: &quot;data:id,uO-Lus2hwTG4QXtw3h1M-61&quot;}]}" id="fNVo1ETTXRSzMY8DOJBl-8">
+          <mxCell parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" vertex="1">
+            <mxGeometry height="80" width="120" x="230" y="-210" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-9" edge="1" parent="1" source="uO-Lus2hwTG4QXtw3h1M-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-10" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="4. Claim&lt;br&gt;Evaluation" vertex="1">
+          <mxGeometry height="80" width="120" x="390" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-14" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-66" y="1305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-15" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-166" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-20" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="Claim&lt;br&gt;without&lt;br&gt;Contract" vertex="1">
+          <mxGeometry height="50" width="50" x="-70" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-25" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="fNVo1ETTXRSzMY8DOJBl-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="1305" />
+              <mxPoint x="20" y="1230" />
+            </Array>
+            <mxPoint x="60" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-32" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-29" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=0;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Find Relevant Contract" vertex="1">
+          <mxGeometry height="80" width="110" x="59" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-30" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-34" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-31" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="Contract&lt;br&gt;Found" vertex="1">
+          <mxGeometry height="50" width="50" x="220" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-33" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="Denied" vertex="1">
+          <mxGeometry height="50" width="50" x="413" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-36" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Contract Coverage Check" vertex="1">
+          <mxGeometry height="100" width="490" x="60" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-37" parent="fNVo1ETTXRSzMY8DOJBl-36" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Contract&lt;br&gt;Dates" vertex="1">
+          <mxGeometry height="51.84" width="110" x="10" y="27.500000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-38" parent="fNVo1ETTXRSzMY8DOJBl-36" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Contract&lt;br&gt;Premium" vertex="1">
+          <mxGeometry height="51.84" width="110" x="130" y="27.500000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-40" parent="fNVo1ETTXRSzMY8DOJBl-36" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Terms &amp;amp;&lt;br&gt;Conditions" vertex="1">
+          <mxGeometry height="51.84" width="110" x="370" y="27.500000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-41" parent="fNVo1ETTXRSzMY8DOJBl-36" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Prevoius&lt;br&gt;Claimes" vertex="1">
+          <mxGeometry height="51.84" width="110" x="250" y="27.500000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-42" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-49" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-43" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="Covered?" vertex="1">
+          <mxGeometry height="50" width="50" x="590" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-44" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-36" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="fNVo1ETTXRSzMY8DOJBl-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="1340" as="sourcePoint" />
+            <mxPoint x="380" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-47" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-51" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-48" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=0;expand=0;collapsible=0;taskMarker=manual;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;" value="Validate Document" vertex="1">
+          <mxGeometry height="80" width="110" x="670" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-52" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="fNVo1ETTXRSzMY8DOJBl-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-60" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-62" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="852" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-50" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="827" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-59" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=default;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;fillColor=default;container=0;" value="Payment" vertex="1">
+          <mxGeometry height="50" width="50" x="930" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-65" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-63" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=send;" value="&lt;span style=&quot;font-family: Poppins;&quot;&gt;Request&lt;/span&gt;&lt;br style=&quot;font-family: Poppins;&quot;&gt;&lt;span style=&quot;font-family: Poppins;&quot;&gt;Additional&lt;/span&gt;&lt;br style=&quot;font-family: Poppins;&quot;&gt;&lt;span style=&quot;font-family: Poppins;&quot;&gt;documents&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="792" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-66" edge="1" parent="1" source="fNVo1ETTXRSzMY8DOJBl-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fNVo1ETTXRSzMY8DOJBl-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNVo1ETTXRSzMY8DOJBl-64" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=standard;symbol=timer;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="700" y="1095" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
