@@ -454,8 +454,14 @@
         <mxCell id="bZBoqnv0zbrjUMBZ8Fmz-35" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="SPC&lt;br&gt;Adapter" vertex="1">
           <mxGeometry height="60" width="120" x="-301" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="bZBoqnv0zbrjUMBZ8Fmz-36" edge="1" parent="1" source="bZBoqnv0zbrjUMBZ8Fmz-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="bZBoqnv0zbrjUMBZ8Fmz-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bZBoqnv0zbrjUMBZ8Fmz-36" edge="1" parent="1" source="bZBoqnv0zbrjUMBZ8Fmz-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="ENCyPWBUksNvWFVNOM9f-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-235" y="740" />
+              <mxPoint x="-235" y="1010" />
+              <mxPoint x="239" y="1010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bZBoqnv0zbrjUMBZ8Fmz-37" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffe6cc;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#d79b00;" value="ABS&lt;div&gt;Product&lt;br&gt;&lt;div&gt;Adapter&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" y="400" as="geometry" />
