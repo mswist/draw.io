@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
-  <diagram name="Page-1" id="qgdTNtb2njmSWe-CJx-L">
-    <mxGraphModel dx="4357" dy="3292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="As Is" id="qgdTNtb2njmSWe-CJx-L">
+    <mxGraphModel dx="3651" dy="2627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1006,7 +1006,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RKbr5PAZY3AvunycOxOz" name="Page-2">
+  <diagram id="RKbr5PAZY3AvunycOxOz" name="Potential">
     <mxGraphModel dx="2353" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
