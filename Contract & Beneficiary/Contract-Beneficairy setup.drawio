@@ -1,0 +1,167 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
+  <diagram name="Page-1" id="cwTJYkaVliKndTVnvNLL">
+    <mxGraphModel dx="1400" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-7" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="EZCqh2GqEFH_0bK0agsE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Product&lt;br&gt;(Master Contract)" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-4" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="EZCqh2GqEFH_0bK0agsE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Business&lt;br&gt;Partner" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-5" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="EZCqh2GqEFH_0bK0agsE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+              <mxPoint x="220" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Agreement" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-34" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="410" />
+              <mxPoint x="90" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-35" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-36" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="410" />
+              <mxPoint x="350" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Individual&lt;br&gt;Contract" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-12" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" target="EZCqh2GqEFH_0bK0agsE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="Product&lt;br&gt;(Open Policy)" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-14" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" target="EZCqh2GqEFH_0bK0agsE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="Business&lt;br&gt;Partner" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-16" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" target="EZCqh2GqEFH_0bK0agsE-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="200" />
+              <mxPoint x="570" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="Agreement" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-39" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EZCqh2GqEFH_0bK0agsE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-40" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#fff2cc;strokeColor=#d6b656;" value="Beneficiary" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="890" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-21" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" target="EZCqh2GqEFH_0bK0agsE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Product&lt;br&gt;(Multi Package Open Policy)" vertex="1">
+          <mxGeometry height="170" width="120" x="870" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-23" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" target="EZCqh2GqEFH_0bK0agsE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Business&lt;br&gt;Partner" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-25" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" target="EZCqh2GqEFH_0bK0agsE-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="200" />
+              <mxPoint x="930" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Agreement" vertex="1">
+          <mxGeometry height="60" width="120" x="950" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-43" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-44" edge="1" parent="1" source="EZCqh2GqEFH_0bK0agsE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EZCqh2GqEFH_0bK0agsE-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Beneficiary" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Package 1" vertex="1">
+          <mxGeometry height="30" width="100" x="880" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Package 2" vertex="1">
+          <mxGeometry height="30" width="100" x="880" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" value="Package 3" vertex="1">
+          <mxGeometry height="30" width="100" x="880" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Contract Data:&lt;br&gt;&lt;/b&gt;Product&lt;br&gt;Agreement&lt;br&gt;Coverage Dates&lt;br&gt;Policy holder&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="30" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Sales Data:&lt;/b&gt;&lt;br&gt;Premium&lt;br&gt;Commission&lt;br&gt;Tax&lt;div&gt;Risk Factors&lt;br&gt;Collection&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Coverage Data:&lt;br&gt;&lt;/b&gt;Insured entity&lt;br&gt;&lt;div&gt;(persons, vehicles, trip, device)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="290" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Contract Data:&lt;br&gt;&lt;/b&gt;Product&lt;br&gt;Agreement&lt;br&gt;Coverage Dates&lt;br&gt;Policy holder&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="440" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Coverage Data:&lt;br&gt;&lt;/b&gt;Insured entity&lt;br&gt;&lt;div&gt;(persons, vehicles, trip, device)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="580" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Contract Data:&lt;br&gt;&lt;/b&gt;Product&lt;br&gt;Product Package&lt;br&gt;Agreement&lt;br&gt;Coverage Dates&lt;br&gt;Policy holder&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="800" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="EZCqh2GqEFH_0bK0agsE-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="&lt;b&gt;Coverage Data:&lt;br&gt;&lt;/b&gt;Insured entity&lt;br&gt;&lt;div&gt;(persons, vehicles, trip, device)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="940" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
