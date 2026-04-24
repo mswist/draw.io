@@ -1562,15 +1562,171 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uby2l-DBG7PyamyLsYAt" name="Architecture">
-    <mxGraphModel dx="1400" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mvrR3TzltN_PV3gTooUi-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=1;spacingBottom=-20;" value="Claims Domain" vertex="1">
-          <mxGeometry height="600" width="520" x="160" y="80" as="geometry" />
+          <mxGeometry height="620" width="592.5" x="160" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-18" edge="1" parent="1" source="mvrR3TzltN_PV3gTooUi-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="100" />
+              <mxPoint x="315" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-27" edge="1" parent="1" source="mvrR3TzltN_PV3gTooUi-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="310" />
+              <mxPoint x="270" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-28" edge="1" parent="1" source="mvrR3TzltN_PV3gTooUi-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="320" />
+              <mxPoint x="640" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-46" edge="1" parent="1" source="mvrR3TzltN_PV3gTooUi-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="150" />
+              <mxPoint x="750" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-47" edge="1" parent="1" source="mvrR3TzltN_PV3gTooUi-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="260" />
+              <mxPoint x="750" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mvrR3TzltN_PV3gTooUi-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-22;" value="Orchestrator" vertex="1">
-          <mxGeometry height="140" width="480" x="180" y="110" as="geometry" />
+          <mxGeometry height="190" width="550" x="180" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-11" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="220" />
+              <mxPoint x="245" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-12" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="210" />
+              <mxPoint x="385" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-13" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="210" />
+              <mxPoint x="525" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-14" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="210" />
+              <mxPoint x="665" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Claims Submission Process" vertex="1">
+          <mxGeometry height="60" width="530" x="190" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="email&lt;div&gt;Review&lt;/div&gt;&lt;div&gt;Process&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="190" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Policy&lt;div&gt;Search&lt;/div&gt;&lt;div&gt;Process&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="330" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Claim&lt;div&gt;Submission&lt;/div&gt;&lt;div&gt;Process&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="470" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Customer&lt;br&gt;Notification&lt;div&gt;Process&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="610" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-16" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="mvrR3TzltN_PV3gTooUi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="95" />
+              <mxPoint x="595" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-48" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#b1ddf0;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-21;strokeColor=#10739e;" value="User Interface" vertex="1">
+          <mxGeometry height="95" width="270" x="460" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#008a00;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=#ffffff;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-21;strokeColor=#005700;" value="Agentic AI" vertex="1">
+          <mxGeometry height="95" width="270" x="180" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="email&lt;div&gt;Review&lt;/div&gt;&lt;div&gt;MFE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="475" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Claim&lt;div&gt;Submission&lt;/div&gt;&lt;div&gt;MFE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="610" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="email&lt;div&gt;review&lt;/div&gt;&lt;div&gt;Agent&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="195" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Claim&lt;div&gt;Submission&lt;/div&gt;&lt;div&gt;Agent&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="330" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-23" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcc99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;strokeColor=#36393d;" value="Claim Search&lt;div&gt;Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="180" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-24" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcc99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-21;" value="Claim Submission&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Service&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="490" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-31" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="450" />
+              <mxPoint x="270" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-29" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;strokeColor=#36393d;" value="Claims SoR" vertex="1">
+          <mxGeometry height="70" width="550" x="180" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-42" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-37" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Submission&lt;br&gt;Service" vertex="1">
+          <mxGeometry height="60" width="102.5" x="500" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-43" edge="1" parent="1" source="LUcSqqUGydFEkh2ViY3k-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="LUcSqqUGydFEkh2ViY3k-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="470" />
+              <mxPoint x="675" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-41" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.passive;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="Submission&lt;br&gt;Store" vertex="1">
+          <mxGeometry height="52.5" width="80" x="635" y="376.75" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-44" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcc99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;strokeColor=#36393d;" value="Task&lt;div&gt;Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="800" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LUcSqqUGydFEkh2ViY3k-45" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcc99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;labelBackgroundColor=none;strokeColor=#36393d;" value="Policy Search&lt;br&gt;Service" vertex="1">
+          <mxGeometry height="80" width="160" x="800" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
