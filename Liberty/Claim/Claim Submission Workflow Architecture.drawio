@@ -1,11 +1,22 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="KBs-OEc0fJuNVtU2TLrT">
-    <mxGraphModel dx="2473" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Decision&lt;br&gt;Engines" vertex="1">
+          <mxGeometry height="200" width="140" x="-30" y="530" as="geometry" />
+        </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-12" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="CepZ2C7lvruicXdco1t9-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-5" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="bCD8eLfIDdL3bGGRQAX_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="442.5" />
+              <mxPoint x="130" y="442.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Temporal Execution Container" vertex="1">
           <mxGeometry height="210" width="480" x="160" y="290" as="geometry" />
@@ -14,7 +25,12 @@
           <mxGeometry height="170" width="110" x="170" y="320" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-7" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="Z6Eq0Cuxo8z9N8a0eSsl-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="462.5" />
+              <mxPoint x="640" y="462.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Claim Worker" vertex="1">
           <mxGeometry height="170" width="340" x="290" y="320" as="geometry" />
@@ -38,24 +54,29 @@
           <mxGeometry height="45" width="480" x="160" y="220" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-10" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="CepZ2C7lvruicXdco1t9-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="337.5" />
+              <mxPoint x="150" y="337.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Document Router" vertex="1">
-          <mxGeometry height="75" width="110" x="10" y="367.5" as="geometry" />
+          <mxGeometry height="75" width="110" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-5" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="CepZ2C7lvruicXdco1t9-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="AIMS++" vertex="1">
-          <mxGeometry height="75" width="110" x="-140" y="367.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-35" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="Z6Eq0Cuxo8z9N8a0eSsl-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="75" width="110" x="-150" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="Task Service" vertex="1">
-          <mxGeometry height="75" width="100" x="670" y="367.5" as="geometry" />
+          <mxGeometry height="75" width="100" x="670" y="425" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-37" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="Z6Eq0Cuxo8z9N8a0eSsl-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-1" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="Z6Eq0Cuxo8z9N8a0eSsl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-27" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="Task UI" vertex="1">
@@ -163,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-57" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z6Eq0Cuxo8z9N8a0eSsl-56">
+        <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-57" edge="1" parent="1" source="Z6Eq0Cuxo8z9N8a0eSsl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="Z6Eq0Cuxo8z9N8a0eSsl-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-47" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" value="Policy &amp;amp; Claim Search&lt;br&gt;Service" vertex="1">
@@ -186,8 +207,24 @@
         <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-54" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="User &amp;amp; Org" vertex="1">
           <mxGeometry height="75" width="100" x="670" y="655" as="geometry" />
         </mxCell>
-        <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-56" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https://fonts.googleapis.com/css?family=Poppins;strokeColor=#36393d;" value="Policy Search" vertex="1">
+        <mxCell id="Z6Eq0Cuxo8z9N8a0eSsl-56" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="Policy Search" vertex="1">
           <mxGeometry height="75" width="100" x="670" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#eeeeee;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#36393d;" value="AOMS" vertex="1">
+          <mxGeometry height="75" width="110" x="-150" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#d6b656;" value="Taktile" vertex="1">
+          <mxGeometry height="60" width="100" x="-10" y="572" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;strokeColor=#d6b656;" value="GoRules" vertex="1">
+          <mxGeometry height="60" width="100" x="-10" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bCD8eLfIDdL3bGGRQAX_-10" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" target="bCD8eLfIDdL3bGGRQAX_-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
