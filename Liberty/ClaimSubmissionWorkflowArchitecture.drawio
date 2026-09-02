@@ -1,44 +1,86 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="KBs-OEc0fJuNVtU2TLrT">
-    <mxGraphModel dx="2144" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="diprIkIs31WsAgmiYRLY-1" parent="1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=default;dashed=1;labelPosition=left;align=right;spacing=0;spacingLeft=0;spacingRight=-60;spacingTop=0;spacingBottom=-20;" value="OPTION 1" vertex="1">
+          <mxGeometry height="350" width="670" x="690" y="170" as="geometry" />
+        </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-12" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CepZ2C7lvruicXdco1t9-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" value="Temporal Execution Container" vertex="1">
-          <mxGeometry height="210" width="480" x="160" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="CepZ2C7lvruicXdco1t9-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Claim Workflow Client" vertex="1">
-          <mxGeometry height="75" width="110" x="170" y="363.75" as="geometry" />
+          <mxGeometry height="210" width="360" x="992" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Claim Worker" vertex="1">
-          <mxGeometry height="167.5" width="340" x="290" y="322.5" as="geometry" />
+          <mxGeometry height="167.5" width="340" x="1002" y="332.5" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Claim Submission Workflow Definition" vertex="1">
-          <mxGeometry height="60" width="320" x="300" y="351.25" as="geometry" />
+          <mxGeometry height="60" width="320" x="1012" y="361.25" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Create Task Activity" vertex="1">
-          <mxGeometry height="60" width="101" x="300" y="420" as="geometry" />
+          <mxGeometry height="60" width="101" x="1012" y="430" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Review&lt;br&gt;Document&lt;br&gt;Activity" vertex="1">
-          <mxGeometry height="60" width="101" x="410" y="420" as="geometry" />
+          <mxGeometry height="60" width="101" x="1122" y="430" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Create Claim Activity" vertex="1">
-          <mxGeometry height="60" width="101" x="519" y="420" as="geometry" />
+          <mxGeometry height="60" width="101" x="1231" y="430" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-11" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CepZ2C7lvruicXdco1t9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CepZ2C7lvruicXdco1t9-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Temporal Cluster" vertex="1">
-          <mxGeometry height="75" width="150" x="325" y="130" as="geometry" />
+          <mxGeometry height="75" width="150" x="1097" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CepZ2C7lvruicXdco1t9-10" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CepZ2C7lvruicXdco1t9-2">
+        <mxCell id="diprIkIs31WsAgmiYRLY-16" edge="1" parent="1" source="CepZ2C7lvruicXdco1t9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CepZ2C7lvruicXdco1t9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CepZ2C7lvruicXdco1t9-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Document Dispatcher" vertex="1">
-          <mxGeometry height="75" width="110" x="-10" y="363.75" as="geometry" />
+        <mxCell id="CepZ2C7lvruicXdco1t9-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Document Dispatcher" vertex="1">
+          <mxGeometry height="112.5" width="110" x="780" y="348.75" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-2" parent="1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=default;dashed=1;labelPosition=left;align=right;spacing=0;spacingLeft=0;spacingRight=-60;spacingTop=0;spacingBottom=-20;" value="OPTION 2" vertex="1">
+          <mxGeometry height="350" width="670" x="690" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-3" edge="1" parent="1" source="diprIkIs31WsAgmiYRLY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="diprIkIs31WsAgmiYRLY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" value="Temporal Execution Container" vertex="1">
+          <mxGeometry height="210" width="490" x="862" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="REST Claim Workflow Client" vertex="1">
+          <mxGeometry height="75" width="110" x="882" y="753.75" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Claim Worker" vertex="1">
+          <mxGeometry height="167.5" width="340" x="1002" y="712.5" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Claim Submission Workflow Definition" vertex="1">
+          <mxGeometry height="60" width="320" x="1012" y="741.25" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Create Task Activity" vertex="1">
+          <mxGeometry height="60" width="101" x="1012" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Review&lt;br&gt;Document&lt;br&gt;Activity" vertex="1">
+          <mxGeometry height="60" width="101" x="1122" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" value="Create Claim Activity" vertex="1">
+          <mxGeometry height="60" width="101" x="1231" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-11" edge="1" parent="1" source="diprIkIs31WsAgmiYRLY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="diprIkIs31WsAgmiYRLY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Temporal Cluster" vertex="1">
+          <mxGeometry height="75" width="150" x="1032" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-13" edge="1" parent="1" source="diprIkIs31WsAgmiYRLY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="diprIkIs31WsAgmiYRLY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Document Dispatcher" vertex="1">
+          <mxGeometry height="75" width="110" x="702" y="753.75" as="geometry" />
+        </mxCell>
+        <mxCell id="diprIkIs31WsAgmiYRLY-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Temporal&lt;br&gt;SDK" vertex="1">
+          <mxGeometry height="45" width="92" x="790" y="405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
