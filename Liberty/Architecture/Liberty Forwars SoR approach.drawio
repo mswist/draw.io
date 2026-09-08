@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="TIlRkwEVqx8lQT_0jMID">
+    <mxGraphModel dx="1172" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-23" edge="1" parent="1" source="ZHrdjoUZKHwEpv2h5rqm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZHrdjoUZKHwEpv2h5rqm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Claim Creation Service" vertex="1">
+          <mxGeometry height="120" width="200" x="600" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;verticalAlign=top;" value="Claims Mongodb Library" vertex="1">
+          <mxGeometry height="80" width="170" x="615" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Mongodb" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-5" edge="1" parent="1" source="ZHrdjoUZKHwEpv2h5rqm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZHrdjoUZKHwEpv2h5rqm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Claims SoR" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Mongodb API" vertex="1">
+          <mxGeometry height="40" width="140" x="390" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Claim Creation Service" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-9" edge="1" parent="1" source="ZHrdjoUZKHwEpv2h5rqm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZHrdjoUZKHwEpv2h5rqm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Mongodb" vertex="1">
+          <mxGeometry height="80" width="200" x="600" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Mongodb API" vertex="1">
+          <mxGeometry height="40" width="140" x="630" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-24" edge="1" parent="1" source="ZHrdjoUZKHwEpv2h5rqm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZHrdjoUZKHwEpv2h5rqm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-18" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" value="Claim Search Service" vertex="1">
+          <mxGeometry height="80" width="200" x="840" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Mongodb" vertex="1">
+          <mxGeometry height="80" width="200" x="840" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Mongodb API" vertex="1">
+          <mxGeometry height="40" width="140" x="870" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-25" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" value="Data Manipulation&lt;div&gt;Option 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="220" x="350" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-27" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" value="Data Access (Search/read)" vertex="1">
+          <mxGeometry height="380" width="220" x="830" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHrdjoUZKHwEpv2h5rqm-28" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=none;verticalAlign=top;" value="Data Manipulation&lt;div&gt;Option 2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="220" x="590" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
